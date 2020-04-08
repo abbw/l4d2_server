@@ -8,7 +8,7 @@ l4d2服务端一键安装脚本 &amp; 运行脚本
 * 自动安装steamcmd
 * 自动安装l4d2服务端
 
-# 环境要求
+# 环境要求（已测试）
 
 * 支持的操作系统：CentOS 7-8、Ubuntu 16-18
 * 操作系统要求64位
@@ -42,5 +42,3 @@ bash <(curl -Lsk https://raw.githubusercontent.com/abbw/l4d2_server/master/l4d2_
 # 请我喝一杯咖啡
 
 ![](https://ftp.bmp.ovh/imgs/2020/04/035ffc48491951b4.jpg)
-
-![](https://imgurl.org/upload/1712/cb349aa4a1b95997.png)
